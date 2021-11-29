@@ -2,6 +2,7 @@
 Manan Kumbhani
 
 Project2 Concept:
-This is Web design project. Here I created OOps Glossarry , AAA testing concept, OOPs Implementation in Calculator program and Seprration of Concerns
+This is continued Web design project. New webpages for OOps Glossary , AAA testing, OOPs Implementation in Calculator program and Separation of Concerns are added to show the implementation of calculator program
 
-[Project 2 Website](http://project2c.eastus.azurecontainer.io)
+###Website Title : Calculator Program Webpage
+[Website](http://project2d.eastus.azurecontainer.io)
